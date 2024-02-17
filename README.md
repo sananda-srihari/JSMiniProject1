@@ -1,3 +1,5 @@
+# JSMiniProject1
+
 Building a JavaScript quiz game with feedback for my first week project.
 
 # JSMiniProject1
